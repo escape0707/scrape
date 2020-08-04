@@ -1,0 +1,573 @@
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210569752434106.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治2 必修 政治生活.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210569909723488.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治3 必修 文化生活.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210570060358498.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治4 必修 生活与哲学.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210118138353663.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治 选修1 科学社会主义常识.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210570824538719.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治 选修2 经济学常识.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210571021687136.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治 选修3 国家和国际组织常识.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210571216246632.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治 选修4 科学思维常识.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210571410972266.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治 选修5 生活中的法律常识.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjc/202002/P020200210571562932684.pdf
+  dir=./pdf/思想政治教科书
+  out=思想政治 选修6 公民道德与伦理常识.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212018017002628.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治2 必修 政治生活 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212018222481934.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治3 必修 文化生活 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212018392166273.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治4 必修 生活与哲学 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212018558820293.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治 选修1 科学社会主义常识 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212018817532388.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治 选修2 经济学常识 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212019380771481.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治 选修3 国家和国际组织常识 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212019551296909.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治 选修4 科学思维常识 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212019694150037.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治 选修5 生活中的法律常识 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/202002/P020200212019907361426.pdf
+  dir=./pdf/思想政治教师教学用书
+  out=思想政治 选修6 公民道德与伦理常识 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200211701779192796.pdf
+  dir=./pdf/语文教科书
+  out=语文3 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200211701963887347.pdf
+  dir=./pdf/语文教科书
+  out=语文4  必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210573082981454.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 外国诗歌散文欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200212027670634255.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 语言文字应用.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200212027908054752.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中国古代诗歌散文欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210573429486633.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中外戏剧名作欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210573582492325.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 外国小说欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210573732888121.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 文章写作与修改.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200212026884061133.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 先秦诸子选读.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210573914909143.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 新闻阅读与实践.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210574083200070.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 演讲与辩论.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210574288174245.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 影视名作欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210574493136978.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中国民俗文化.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200212028100447343.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中国文化经典研读.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210574751825488.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中国现代诗歌散文欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210574974887501.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中国小说欣赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/202002/P020200210575180153606.pdf
+  dir=./pdf/语文教科书
+  out=语文 选修 中外传记作品选读.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210592327685526.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文3 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200211717735978543.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文4  必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200213615125964140.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 外国诗歌散文欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200212090358571941.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 语言文字应用 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200212080351072220.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中国古代诗歌散文欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210593961914620.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中外戏剧名作欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210594637247039.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 外国小说欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200211718100971759.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 文章写作与修改 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200212090660243157.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 先秦诸子选读 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200211718453545149.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 新闻阅读与实践 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210594957997937.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 演讲与辩论 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210595479304828.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 影视名作欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210595873752013.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中国民俗文化 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200212090961946388.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中国文化经典研读 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210596228023532.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中国现代诗歌散文欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210596667886043.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中国小说欣赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/202002/P020200210776372582063.pdf
+  dir=./pdf/语文教师教学用书
+  out=语文 选修 中外传记作品选读 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200211719904037624.pdf
+  dir=./pdf/历史教科书
+  out=历史1 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200211626847552259.pdf
+  dir=./pdf/历史教科书
+  out=历史2 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210771728285768.pdf
+  dir=./pdf/历史教科书
+  out=历史3 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210769201231507.pdf
+  dir=./pdf/历史教科书
+  out=历史 选修1 历史上重大改革回眸.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210769728546913.pdf
+  dir=./pdf/历史教科书
+  out=历史 选修2 近代社会的民主思想与实践.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210769908091905.pdf
+  dir=./pdf/历史教科书
+  out=历史 选修3 20世纪的战争与和平.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210770086982885.pdf
+  dir=./pdf/历史教科书
+  out=历史 选修4 中外历史人物评说.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210769577611163.pdf
+  dir=./pdf/历史教科书
+  out=历史 选修5 探索历史的奥秘.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjc/202002/P020200210763510144892.pdf
+  dir=./pdf/历史教科书
+  out=历史 选修6 世界文化遗产荟萃.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200212122932245418.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史1 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200212107358236089.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史2 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200210597279883642.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史3 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200211715154758331.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史 选修1 历史上重大改革回眸 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200211715486611345.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史 选修2 近代社会的民主思想与实践 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200210599538348454.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史 选修3 20世纪的战争与和平 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200210599773328099.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史 选修4 中外历史人物评说 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200211715735997582.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史 选修5 探索历史的奥秘 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkblsjsys/202002/P020200211715962461369.pdf
+  dir=./pdf/历史教师教学用书
+  out=历史 选修6 世界文化遗产荟萃 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200211702776126619.pdf
+  dir=./pdf/数学教科书
+  out=数学1 必修（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200210807581097708.pdf
+  dir=./pdf/数学教科书
+  out=数学2 必修（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200210807577889182.pdf
+  dir=./pdf/数学教科书
+  out=数学3 必修（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200210807574605125.pdf
+  dir=./pdf/数学教科书
+  out=数学4 必修（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200211704909768719.pdf
+  dir=./pdf/数学教科书
+  out=数学5 必修（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200211703100800465.pdf
+  dir=./pdf/数学教科书
+  out=数学1 必修（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200210807567180736.pdf
+  dir=./pdf/数学教科书
+  out=数学2 必修（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200211627133096308.pdf
+  dir=./pdf/数学教科书
+  out=数学3 必修（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200211627338704702.pdf
+  dir=./pdf/数学教科书
+  out=数学4 必修（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200210807559566977.pdf
+  dir=./pdf/数学教科书
+  out=数学5 必修（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212024009185954.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修1-1（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212028227280183.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修1-2（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212341972152899.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修2-1（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212024952384376.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修2-2（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212025225773483.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修2-3（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212029940873791.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修3-1 数学史选讲（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212030281531538.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修3-3 球面上的几何(A版).pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212030574010799.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修3-4 对称与群（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212030915126373.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-1 几何证明选讲（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212031295309221.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-2 矩阵与变换(A版).pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212031618534105.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-4 坐标系与参数方程（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212031938843564.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-5 不等式选讲（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212032569559939.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-6 初等数论初步（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212032267589461.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-7 优选法与试验设计初步（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212032886834153.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修4-9 风险与决策（A版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212024525354866.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修1-1（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212028798331183.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修1-2（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212024725367486.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修2-1（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212029153325182.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修2-2（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjc/202002/P020200212029513379580.pdf
+  dir=./pdf/数学教科书
+  out=数学 选修2-3（B版）.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200210111049816946.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学1 必修（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200210111191230728.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学2 必修（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200210111451885151.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学3 必修（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212108949819665.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学4 必修（A版）教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200211716837527705.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学5 必修（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200211716492130078.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学1 必修（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200210111589326031.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学2 必修（B版）  教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200210601348216888.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学3 必修（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212396362146130.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学4 必修（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212039164221358.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学5 必修（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212091345946421.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修1-1（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212109160570173.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修1-2（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212130346360403.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修2-1（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212124324721321.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修2-2（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212124496492314.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修2-3（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212125369900521.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-1 几何证明选讲（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212125558607743.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-2 矩阵与变换(A版) 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212040586191470.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-4 坐标系与参数方程（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212040780469548.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-5 不等式选讲（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212041012668904.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-6 初等数论初步（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200211633894791913.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-7 优选法与试验设计初步（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212041255558680.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修4-9 风险与决策（A版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212039425113269.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修1-1（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212039643382954.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修1-2（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212039881815688.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修2-1（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212040098314144.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修2-2（B版） 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxjsys/202002/P020200212126112288234.pdf
+  dir=./pdf/数学教师教学用书
+  out=数学 选修2-3（B版）教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/202002/P020200212033353922885.pdf
+  dir=./pdf/物理教科书
+  out=物理 必修2.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/202002/P020200212025614185788.pdf
+  dir=./pdf/物理教科书
+  out=物理 选修3-1.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/202002/P020200212033722506534.pdf
+  dir=./pdf/物理教科书
+  out=物理 选修3-2.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/202002/P020200212034059898448.pdf
+  dir=./pdf/物理教科书
+  out=物理 选修3-3.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/202002/P020200211634526727750.pdf
+  dir=./pdf/物理教科书
+  out=物理 选修3-4.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/202002/P020200212025795253750.pdf
+  dir=./pdf/物理教科书
+  out=物理 选修3-5.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/202002/P020200211717139321973.pdf
+  dir=./pdf/物理教师教学用书
+  out=物理2 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/202002/P020200212041493249684.pdf
+  dir=./pdf/物理教师教学用书
+  out=物理 选修3-1 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/202002/P020200212041696991858.pdf
+  dir=./pdf/物理教师教学用书
+  out=物理 选修3-2 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/202002/P020200212041847672233.pdf
+  dir=./pdf/物理教师教学用书
+  out=物理 选修3-3 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/202002/P020200211717412187962.pdf
+  dir=./pdf/物理教师教学用书
+  out=物理 选修3-4 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/202002/P020200212042030764631.pdf
+  dir=./pdf/物理教师教学用书
+  out=物理 选修3-5 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210049857496676.pdf
+  dir=./pdf/化学教科书
+  out=化学2 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210050025579739.pdf
+  dir=./pdf/化学教科书
+  out=化学 选修1 化学与生活.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210050241978098.pdf
+  dir=./pdf/化学教科书
+  out=化学 选修2 化学与技术.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210050491618391.pdf
+  dir=./pdf/化学教科书
+  out=化学 选修3 物质结构与性质.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210050668648961.pdf
+  dir=./pdf/化学教科书
+  out=化学 选修4 化学反应原理.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210050806123407.pdf
+  dir=./pdf/化学教科书
+  out=化学 选修5 有机化学基础.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/202002/P020200210050970597437.pdf
+  dir=./pdf/化学教科书
+  out=化学 选修6 实验化学.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210058953998658.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学2 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210059161071737.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学 选修1 化学与生活 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210059498854432.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学 选修2 化学与技术 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210059720718580.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学 选修3 物质结构与性质 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210059988863822.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学 选修4 化学反应原理 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210060251707006.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学 选修5 有机化学基础 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/202002/P020200210060573652560.pdf
+  dir=./pdf/化学教师教学用书
+  out=化学 选修6 实验化学 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjc/202002/P020200210052474822768.pdf
+  dir=./pdf/生物教科书
+  out=生物2 必修 遗传与进化.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjc/202002/P020200210052849950146.pdf
+  dir=./pdf/生物教科书
+  out=生物3 必修 稳态与环境.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjc/202002/P020200210053393169721.pdf
+  dir=./pdf/生物教科书
+  out=生物 选修1 生物技术实践.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjc/202002/P020200213613604748362.pdf
+  dir=./pdf/生物教科书
+  out=生物 选修3 现代生物科技专题.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjsys/202002/P020200210062219750802.pdf
+  dir=./pdf/生物教师教学用书
+  out=生物2 必修 遗传与进化 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjsys/202002/P020200210062465793108.pdf
+  dir=./pdf/生物教师教学用书
+  out=生物3 必修 稳态与环境 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjsys/202002/P020200210062726880675.pdf
+  dir=./pdf/生物教师教学用书
+  out=生物 选修1 生物技术实践 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjsys/202002/P020200213610672909342.pdf
+  dir=./pdf/生物教师教学用书
+  out=生物 选修3 现代生物科技专题 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbdljc/202002/P020200219823299730784.pdf
+  dir=./pdf/地理教科书
+  out=地理2 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbdijsys/202002/P020200210058080214464.pdf
+  dir=./pdf/地理教师教学用书
+  out=地理2 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjc/202002/P020200210771116953588.pdf
+  dir=./pdf/英语教科书
+  out=英语3 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjc/202002/P020200210770929301529.pdf
+  dir=./pdf/英语教科书
+  out=英语4 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjc/202002/P020200226475171621450.pdf
+  dir=./pdf/英语教科书
+  out=英语6 选修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjc/202002/P020200210771435092806.pdf
+  dir=./pdf/英语教科书
+  out=英语7 选修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjc/202002/P020200210770612636797.pdf
+  dir=./pdf/英语教科书
+  out=英语8 选修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjsys/202002/P020200210757354804444.pdf
+  dir=./pdf/英语教师教学用书
+  out=英语 3必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjsys/202002/P020200210756164720894.pdf
+  dir=./pdf/英语教师教学用书
+  out=英语 4必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjsys/202002/P020200226476204541105.pdf
+  dir=./pdf/英语教师教学用书
+  out=英语 6选修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjsys/202002/P020200210757696405000.pdf
+  dir=./pdf/英语教师教学用书
+  out=英语 7选修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjsys/202002/P020200210758133538975.pdf
+  dir=./pdf/英语教师教学用书
+  out=英语 8选修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbeyjc/202002/P020200211701256126298.pdf
+  dir=./pdf/俄语教科书
+  out=俄语1 必修.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbeyjsys/202002/P020200211714167588377.pdf
+  dir=./pdf/俄语教师教学用书
+  out=俄语1 必修 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213606820672843.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 美术鉴赏.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213609662507298.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 摄影摄像.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213603934401026.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 电脑绘画电脑设计.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213604758044962.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 雕塑.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213605880925148.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 绘画.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213609944723917.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 篆刻.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjc/202002/P020200213608712151072.pdf
+  dir=./pdf/美术教科书
+  out=美术 选修 设计.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200213607159483652.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 美术鉴赏 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200212776231630728.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 摄影摄像 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200228664451948207.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 电脑绘画电脑设计 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200213605241004146.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 雕塑 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200213606245492960.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 绘画 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200213610236420871.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 篆刻 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgzmsjsys/202002/P020200213609053026695.pdf
+  dir=./pdf/美术教师用书
+  out=美术 选修 设计 教师用书.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgztyjc/202002/P020200212781966763114.pdf
+  dir=./pdf/体育与健康教科书
+  out=体育与健康 （必修）全一册.pdf
+https://bp.pep.com.cn/jc/ptgzkcbzsyjks/kbgztyjsys/202002/P020200213614724911344.pdf
+  dir=./pdf/体育与健康教师教学用书
+  out=体育与健康 必修全一册 教师用书.pdf

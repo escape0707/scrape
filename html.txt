@@ -1,0 +1,2148 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<title>普通高中课程标准实验教科书</title>
+<!--[if lt IE 9]> 
+<script language="javascript" type="text/jscript" src="http://bp.pep.com.cn/images/html5_6_1.js"></script>
+<script src="http://bp.pep.com.cn/respond_6_1.js" type="text/javascript" language="javascript"></script>
+<![endif]-->
+<link href="../../images/cssreset_2_1.css" rel="stylesheet" type="text/css">
+<link href="../../images/jcdzs2020.css" rel="stylesheet" type="text/css">
+<style>
+.banner_jcdzs2020{ background-position:center;}
+.con_list_jcdzs2020 h6{ min-height:64px;}
+</style>
+</head>
+
+<body>
+<div class="banner_jcdzs2020"><img src="../../images/banner_jcdzs2020.jpg" class="m_pxap" alt="" /></div>
+
+<div id="container" class="p_b_0">
+	<div class="con_current_jcdzs2020 hide_cp">
+		当前位置：<a href="../ ">首页</a><span>&gt;</span><a href="./" target="_blank" title="普通高中课程标准实验教科书" class="CurrChnlCls">普通高中课程标准实验教科书</a>
+	</div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>思想政治教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzbx2/index.html" target="_blank" title="思想政治2 必修 政治生活"><img src="./gzkbsxzzjc/202002/W020200211441264492709.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzbx2/index.html" target="_blank" title="思想政治2 必修 政治生活">思想政治2 必修 政治生活</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210569752434106.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzbx3/index.html" target="_blank" title="思想政治3 必修 文化生活"><img src="./gzkbsxzzjc/202002/W020200211441411504963.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzbx3/index.html" target="_blank" title="思想政治3 必修 文化生活">思想政治3 必修 文化生活</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210569909723488.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzbx4/index.html" target="_blank" title="思想政治4 必修 生活与哲学"><img src="./gzkbsxzzjc/202002/W020200211441560723500.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzbx4/index.html" target="_blank" title="思想政治4 必修 生活与哲学">思想政治4 必修 生活与哲学</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzbx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210570060358498.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzxx1/index.html" target="_blank" title="思想政治 选修1 科学社会主义常识"><img src="./gzkbsxzzjc/202002/W020200211441713511837.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzxx1/index.html" target="_blank" title="思想政治 选修1 科学社会主义常识">思想政治 选修1 科学社会主义常识</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210118138353663.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzxx2/index.html" target="_blank" title="思想政治 选修2 经济学常识"><img src="./gzkbsxzzjc/202002/W020200211441846236139.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzxx2/index.html" target="_blank" title="思想政治 选修2 经济学常识">思想政治 选修2 经济学常识</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzxx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210570824538719.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzxx3/index.html" target="_blank" title="思想政治 选修3 国家和国际组织常识"><img src="./gzkbsxzzjc/202002/W020200211441996169894.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzxx3/index.html" target="_blank" title="思想政治 选修3 国家和国际组织常识">思想政治 选修3 国家和国际组织常识</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210571021687136.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzxx4/index.html" target="_blank" title="思想政治 选修4 科学思维常识"><img src="./gzkbsxzzjc/202002/W020200211442123763717.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzxx4/index.html" target="_blank" title="思想政治 选修4 科学思维常识">思想政治 选修4 科学思维常识</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzxx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210571216246632.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzxx5/index.html" target="_blank" title="思想政治 选修5 生活中的法律常识"><img src="./gzkbsxzzjc/202002/W020200211442286851261.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzxx5/index.html" target="_blank" title="思想政治 选修5 生活中的法律常识">思想政治 选修5 生活中的法律常识</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzxx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210571410972266.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzsxzzxx6/index.html" target="_blank" title="思想政治 选修6 公民道德与伦理常识"><img src="./gzkbsxzzjc/202002/W020200211442418535627.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzsxzzxx6/index.html" target="_blank" title="思想政治 选修6 公民道德与伦理常识">思想政治 选修6 公民道德与伦理常识</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzsxzzxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjc/202002/P020200210571562932684.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>思想政治教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx2/index.html" target="_blank" title="思想政治2 必修 政治生活 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211512304519003.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx2/index.html" target="_blank" title="思想政治2 必修 政治生活 教师用书">思想政治2 必修 政治生活 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212018017002628.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx3/index.html" target="_blank" title="思想政治3 必修 文化生活 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211512455763225.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx3/index.html" target="_blank" title="思想政治3 必修 文化生活 教师用书">思想政治3 必修 文化生活 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212018222481934.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx4/index.html" target="_blank" title="思想政治4 必修 生活与哲学 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211512600263950.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx4/index.html" target="_blank" title="思想政治4 必修 生活与哲学 教师用书">思想政治4 必修 生活与哲学 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzbx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212018392166273.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx1/index.html" target="_blank" title="思想政治 选修1 科学社会主义常识 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211512830155621.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx1/index.html" target="_blank" title="思想政治 选修1 科学社会主义常识 教师用书">思想政治 选修1 科学社会主义常识 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212018558820293.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx2/index.html" target="_blank" title="思想政治 选修2 经济学常识 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211514608834165.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx2/index.html" target="_blank" title="思想政治 选修2 经济学常识 教师用书">思想政治 选修2 经济学常识 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212018817532388.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx3/index.html" target="_blank" title="思想政治 选修3 国家和国际组织常识 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211513168259080.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx3/index.html" target="_blank" title="思想政治 选修3 国家和国际组织常识 教师用书">思想政治 选修3 国家和国际组织常识 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212019380771481.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx4/index.html" target="_blank" title="思想政治 选修4 科学思维常识 教师用书"><img src="./gzkbsxzzjsys/202002/W020200212077895295229.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx4/index.html" target="_blank" title="思想政治 选修4 科学思维常识 教师用书">思想政治 选修4 科学思维常识 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212019551296909.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx5/index.html" target="_blank" title="思想政治 选修5 生活中的法律常识 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211513684319862.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx5/index.html" target="_blank" title="思想政治 选修5 生活中的法律常识 教师用书">思想政治 选修5 生活中的法律常识 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212019694150037.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx6/index.html" target="_blank" title="思想政治 选修6 公民道德与伦理常识 教师用书"><img src="./gzkbsxzzjsys/202002/W020200211513870039605.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx6/index.html" target="_blank" title="思想政治 选修6 公民道德与伦理常识 教师用书">思想政治 选修6 公民道德与伦理常识 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzsxzzxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxzzjsys/202002/P020200212019907361426.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>语文教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbywbx3/index.html" target="_blank" title="语文3 必修"><img src="./gzkbywjc/202002/W020200212062963855588.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbywbx3/index.html" target="_blank" title="语文3 必修">语文3 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbywbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200211701779192796.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbywbx4/index.html" target="_blank" title="语文4  必修"><img src="./gzkbywjc/202002/W020200212063080185843.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbywbx4/index.html" target="_blank" title="语文4  必修">语文4  必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbywbx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200211701963887347.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwgsgswxs/index.html" target="_blank" title="语文 选修 外国诗歌散文欣赏"><img src="./gzkbywjc/202002/W020200212070081308146.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwgsgswxs/index.html" target="_blank" title="语文 选修 外国诗歌散文欣赏">语文 选修 外国诗歌散文欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwgsgswxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210573082981454.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyywzyy/index.html" target="_blank" title="语文 选修 语言文字应用"><img src="./gzkbywjc/202002/W020200212064703584059.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyywzyy/index.html" target="_blank" title="语文 选修 语言文字应用">语文 选修 语言文字应用</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyywzyy/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200212027670634255.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzggdsgswxs/index.html" target="_blank" title="语文 选修 中国古代诗歌散文欣赏"><img src="./gzkbywjc/202002/W020200212063794605967.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzggdsgswxs/index.html" target="_blank" title="语文 选修 中国古代诗歌散文欣赏">语文 选修 中国古代诗歌散文欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzggdsgswxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200212027908054752.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzwxjmzxs/index.html" target="_blank" title="语文 选修 中外戏剧名作欣赏"><img src="./gzkbywjc/202002/W020200220623321889970.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzwxjmzxs/index.html" target="_blank" title="语文 选修 中外戏剧名作欣赏">语文 选修 中外戏剧名作欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzwxjmzxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210573429486633.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwgxsxs/index.html" target="_blank" title="语文 选修 外国小说欣赏"><img src="./gzkbywjc/202002/W020200212070847874278.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwgxsxs/index.html" target="_blank" title="语文 选修 外国小说欣赏">语文 选修 外国小说欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwgxsxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210573582492325.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwzxzyxg/index.html" target="_blank" title="语文 选修 文章写作与修改"><img src="./gzkbywjc/202002/W020200212071114243552.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwzxzyxg/index.html" target="_blank" title="语文 选修 文章写作与修改">语文 选修 文章写作与修改</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwzxzyxg/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210573732888121.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbxqzzxd/index.html" target="_blank" title="语文 选修 先秦诸子选读"><img src="./gzkbywjc/202002/W020200212064477382960.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbxqzzxd/index.html" target="_blank" title="语文 选修 先秦诸子选读">语文 选修 先秦诸子选读</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbxqzzxd/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200212026884061133.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbxwydysj/index.html" target="_blank" title="语文 选修 新闻阅读与实践"><img src="./gzkbywjc/202002/W020200212071861517020.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbxwydysj/index.html" target="_blank" title="语文 选修 新闻阅读与实践">语文 选修 新闻阅读与实践</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbxwydysj/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210573914909143.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyyybl/index.html" target="_blank" title="语文 选修 演讲与辩论"><img src="./gzkbywjc/202002/W020200212072097840581.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyyybl/index.html" target="_blank" title="语文 选修 演讲与辩论">语文 选修 演讲与辩论</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyyybl/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210574083200070.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbysmzxs/index.html" target="_blank" title="语文 选修 影视名作欣赏"><img src="./gzkbywjc/202002/W020200220740109838917.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbysmzxs/index.html" target="_blank" title="语文 选修 影视名作欣赏">语文 选修 影视名作欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbysmzxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210574288174245.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzgmswh/index.html" target="_blank" title="语文 选修 中国民俗文化"><img src="./gzkbywjc/202002/W020200212072755847500.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzgmswh/index.html" target="_blank" title="语文 选修 中国民俗文化">语文 选修 中国民俗文化</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzgmswh/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210574493136978.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzgwhjdyd/index.html" target="_blank" title="语文 选修 中国文化经典研读"><img src="./gzkbywjc/202002/W020200212064882539857.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzgwhjdyd/index.html" target="_blank" title="语文 选修 中国文化经典研读">语文 选修 中国文化经典研读</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzgwhjdyd/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200212028100447343.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzgxdsgswxs/index.html" target="_blank" title="语文 选修 中国现代诗歌散文欣赏"><img src="./gzkbywjc/202002/W020200212073084510762.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzgxdsgswxs/index.html" target="_blank" title="语文 选修 中国现代诗歌散文欣赏">语文 选修 中国现代诗歌散文欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzgxdsgswxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210574751825488.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzgxsxs/index.html" target="_blank" title="语文 选修 中国小说欣赏"><img src="./gzkbywjc/202002/W020200212073287730121.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzgxsxs/index.html" target="_blank" title="语文 选修 中国小说欣赏">语文 选修 中国小说欣赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzgxsxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210574974887501.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbzwzjzpxd/index.html" target="_blank" title="语文 选修 中外传记作品选读"><img src="./gzkbywjc/202002/W020200212073460495970.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbzwzjzpxd/index.html" target="_blank" title="语文 选修 中外传记作品选读">语文 选修 中外传记作品选读</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbzwzjzpxd/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjc/202002/P020200210575180153606.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>语文教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbywbx3/index.html" target="_blank" title="语文3 必修 教师用书"><img src="./gzkbywjsys/202002/W020200212074052012921.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbywbx3/index.html" target="_blank" title="语文3 必修 教师用书">语文3 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbywbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210592327685526.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbywbx4/index.html" target="_blank" title="语文4  必修 教师用书"><img src="./gzkbywjsys/202002/W020200212065116522045.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbywbx4/index.html" target="_blank" title="语文4  必修 教师用书">语文4  必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbywbx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200211717735978543.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwgsgswxs/index.html" target="_blank" title="语文 选修 外国诗歌散文欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200212074663395432.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwgsgswxs/index.html" target="_blank" title="语文 选修 外国诗歌散文欣赏 教师用书">语文 选修 外国诗歌散文欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwgsgswxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200213615125964140.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyywzyy/index.html" target="_blank" title="语文 选修 语言文字应用 教师用书"><img src="./gzkbywjsys/202002/W020200212065937427124.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyywzyy/index.html" target="_blank" title="语文 选修 语言文字应用 教师用书">语文 选修 语言文字应用 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyywzyy/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200212090358571941.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzggdsgswxs/index.html" target="_blank" title="语文 选修 中国古代诗歌散文欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200220622058264965.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzggdsgswxs/index.html" target="_blank" title="语文 选修 中国古代诗歌散文欣赏 教师用书">语文 选修 中国古代诗歌散文欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzggdsgswxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200212080351072220.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzwxjmzxs/index.html" target="_blank" title="语文 选修 中外戏剧名作欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200212075211923589.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzwxjmzxs/index.html" target="_blank" title="语文 选修 中外戏剧名作欣赏 教师用书">语文 选修 中外戏剧名作欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzwxjmzxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210593961914620.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwgxsxs/index.html" target="_blank" title="语文 选修 外国小说欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200212075372644018.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwgxsxs/index.html" target="_blank" title="语文 选修 外国小说欣赏 教师用书">语文 选修 外国小说欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwgxsxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210594637247039.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwzxzyxg/index.html" target="_blank" title="语文 选修 文章写作与修改 教师用书"><img src="./gzkbywjsys/202002/W020200212065395114517.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwzxzyxg/index.html" target="_blank" title="语文 选修 文章写作与修改 教师用书">语文 选修 文章写作与修改 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwzxzyxg/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200211718100971759.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbxqzzxd/index.html" target="_blank" title="语文 选修 先秦诸子选读 教师用书"><img src="./gzkbywjsys/202002/W020200212065559603315.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbxqzzxd/index.html" target="_blank" title="语文 选修 先秦诸子选读 教师用书">语文 选修 先秦诸子选读 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbxqzzxd/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200212090660243157.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbxwydysj/index.html" target="_blank" title="语文 选修 新闻阅读与实践 教师用书"><img src="./gzkbywjsys/202002/W020200212065748818312.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbxwydysj/index.html" target="_blank" title="语文 选修 新闻阅读与实践 教师用书">语文 选修 新闻阅读与实践 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbxwydysj/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200211718453545149.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyyybl/index.html" target="_blank" title="语文 选修 演讲与辩论 教师用书"><img src="./gzkbywjsys/202002/W020200212075808067800.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyyybl/index.html" target="_blank" title="语文 选修 演讲与辩论 教师用书">语文 选修 演讲与辩论 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyyybl/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210594957997937.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbysmzxs/index.html" target="_blank" title="语文 选修 影视名作欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200212075985164631.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbysmzxs/index.html" target="_blank" title="语文 选修 影视名作欣赏 教师用书">语文 选修 影视名作欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbysmzxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210595479304828.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzgmswh/index.html" target="_blank" title="语文 选修 中国民俗文化 教师用书"><img src="./gzkbywjsys/202002/W020200212076168046891.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzgmswh/index.html" target="_blank" title="语文 选修 中国民俗文化 教师用书">语文 选修 中国民俗文化 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzgmswh/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210595873752013.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzgwhjdyd/index.html" target="_blank" title="语文 选修 中国文化经典研读 教师用书"><img src="./gzkbywjsys/202002/W020200212066207533185.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzgwhjdyd/index.html" target="_blank" title="语文 选修 中国文化经典研读 教师用书">语文 选修 中国文化经典研读 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzgwhjdyd/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200212090961946388.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzgxdsgswxs/index.html" target="_blank" title="语文 选修 中国现代诗歌散文欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200212066078337004.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzgxdsgswxs/index.html" target="_blank" title="语文 选修 中国现代诗歌散文欣赏 教师用书">语文 选修 中国现代诗歌散文欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzgxdsgswxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210596228023532.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzgxsxs/index.html" target="_blank" title="语文 选修 中国小说欣赏 教师用书"><img src="./gzkbywjsys/202002/W020200212076373595147.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzgxsxs/index.html" target="_blank" title="语文 选修 中国小说欣赏 教师用书">语文 选修 中国小说欣赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzgxsxs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210596667886043.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbzwzjzpxd/index.html" target="_blank" title="语文 选修 中外传记作品选读 教师用书"><img src="./gzkbywjsys/202002/W020200212097483776643.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbzwzjzpxd/index.html" target="_blank" title="语文 选修 中外传记作品选读 教师用书">语文 选修 中外传记作品选读 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbzwzjzpxd/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbywjsys/202002/P020200210776372582063.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>历史教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkblsbxyi/index.html" target="_blank" title="历史1 必修"><img src="./gzkblsjc/202002/W020200212017170579552.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkblsbxyi/index.html" target="_blank" title="历史1 必修">历史1 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkblsbxyi/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200211719904037624.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkblsbxer/index.html" target="_blank" title="历史2 必修"><img src="./gzkblsjc/202002/W020200220740313832992.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkblsbxer/index.html" target="_blank" title="历史2 必修">历史2 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkblsbxer/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200211626847552259.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkblsbxsan/index.html" target="_blank" title="历史3 必修"><img src="./gzkblsjc/202002/W020200212060174276247.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkblsbxsan/index.html" target="_blank" title="历史3 必修">历史3 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkblsbxsan/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210771728285768.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzlsxx1/index.html" target="_blank" title="历史 选修1 历史上重大改革回眸"><img src="./gzkblsjc/202002/W020200212062970912598_158.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzlsxx1/index.html" target="_blank" title="历史 选修1 历史上重大改革回眸">历史 选修1 历史上重大改革回眸</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzlsxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210769201231507.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzlsxx2/index.html" target="_blank" title="历史 选修2 近代社会的民主思想与实践"><img src="./gzkblsjc/202002/W020200220640820708266.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzlsxx2/index.html" target="_blank" title="历史 选修2 近代社会的民主思想与实践">历史 选修2 近代社会的民主思想与实践</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzlsxx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210769728546913.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzlsxx3/index.html" target="_blank" title="历史 选修3 20世纪的战争与和平"><img src="./gzkblsjc/202002/W020200212063921691244.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzlsxx3/index.html" target="_blank" title="历史 选修3 20世纪的战争与和平">历史 选修3 20世纪的战争与和平</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzlsxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210769908091905.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzlsxx4/index.html" target="_blank" title="历史 选修4 中外历史人物评说"><img src="./gzkblsjc/202002/W020200212064224842202.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzlsxx4/index.html" target="_blank" title="历史 选修4 中外历史人物评说">历史 选修4 中外历史人物评说</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzlsxx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210770086982885.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzlsxx5/index.html" target="_blank" title="历史 选修5 探索历史的奥秘"><img src="./gzkblsjc/202002/W020200212064368433199.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzlsxx5/index.html" target="_blank" title="历史 选修5 探索历史的奥秘">历史 选修5 探索历史的奥秘</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzlsxx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210769577611163.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzlsxx6/index.html" target="_blank" title="历史 选修6 世界文化遗产荟萃"><img src="./gzkblsjc/202002/W020200212064550824684.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzlsxx6/index.html" target="_blank" title="历史 选修6 世界文化遗产荟萃">历史 选修6 世界文化遗产荟萃</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzlsxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjc/202002/P020200210763510144892.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>历史教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkblsbxyi/index.html" target="_blank" title="历史1 必修 教师用书"><img src="./gzkblsjsys/202002/W020200212018613077764.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkblsbxyi/index.html" target="_blank" title="历史1 必修 教师用书">历史1 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkblsbxyi/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200212122932245418.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkblsbxer/index.html" target="_blank" title="历史2 必修 教师用书"><img src="./gzkblsjsys/202002/W020200220624015834873.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkblsbxer/index.html" target="_blank" title="历史2 必修 教师用书">历史2 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkblsbxer/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200212107358236089.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkblsbxsan/index.html" target="_blank" title="历史3 必修 教师用书"><img src="./gzkblsjsys/202002/W020200212060423863137.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkblsbxsan/index.html" target="_blank" title="历史3 必修 教师用书">历史3 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkblsbxsan/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200210597279883642.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzlsxx1/index.html" target="_blank" title="历史 选修1 历史上重大改革回眸 教师用书"><img src="./gzkblsjsys/202002/W020200212062027686772.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzlsxx1/index.html" target="_blank" title="历史 选修1 历史上重大改革回眸 教师用书">历史 选修1 历史上重大改革回眸 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzlsxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200211715154758331.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzlsxx2/index.html" target="_blank" title="历史 选修2 近代社会的民主思想与实践 教师用书"><img src="./gzkblsjsys/202002/W020200212063512291164.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzlsxx2/index.html" target="_blank" title="历史 选修2 近代社会的民主思想与实践 教师用书">历史 选修2 近代社会的民主思想与实践 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzlsxx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200211715486611345.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzlsxx3/index.html" target="_blank" title="历史 选修3 20世纪的战争与和平 教师用书"><img src="./gzkblsjsys/202002/W020200212063745674262.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzlsxx3/index.html" target="_blank" title="历史 选修3 20世纪的战争与和平 教师用书">历史 选修3 20世纪的战争与和平 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzlsxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200210599538348454.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzlsxx4/index.html" target="_blank" title="历史 选修4 中外历史人物评说 教师用书"><img src="./gzkblsjsys/202002/W020200212064986906491.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzlsxx4/index.html" target="_blank" title="历史 选修4 中外历史人物评说 教师用书">历史 选修4 中外历史人物评说 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzlsxx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200210599773328099.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzlsxx5/index.html" target="_blank" title="历史 选修5 探索历史的奥秘 教师用书"><img src="./gzkblsjsys/202002/W020200212019227442445.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzlsxx5/index.html" target="_blank" title="历史 选修5 探索历史的奥秘 教师用书">历史 选修5 探索历史的奥秘 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzlsxx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200211715735997582.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzlsxx6/index.html" target="_blank" title="历史 选修6 世界文化遗产荟萃 教师用书"><img src="./gzkblsjsys/202002/W020200212019563428739.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzlsxx6/index.html" target="_blank" title="历史 选修6 世界文化遗产荟萃 教师用书">历史 选修6 世界文化遗产荟萃 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzlsxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkblsjsys/202002/P020200211715962461369.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>数学教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxabx1/index.html" target="_blank" title="数学1 必修（A版）"><img src="./gzkbsxjc/202002/W020200212033300813791.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxabx1/index.html" target="_blank" title="数学1 必修（A版）">数学1 必修（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxabx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200211702776126619.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxabx2/index.html" target="_blank" title="数学2 必修（A版）"><img src="./gzkbsxjc/202002/W020200212023229518088.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxabx2/index.html" target="_blank" title="数学2 必修（A版）">数学2 必修（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxabx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200210807581097708.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxabx3/index.html" target="_blank" title="数学3 必修（A版）"><img src="./gzkbsxjc/202002/W020200212026991602958.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxabx3/index.html" target="_blank" title="数学3 必修（A版）">数学3 必修（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxabx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200210807577889182.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxabx4/index.html" target="_blank" title="数学4 必修（A版）"><img src="./gzkbsxjc/202002/W020200212027750495182.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxabx4/index.html" target="_blank" title="数学4 必修（A版）">数学4 必修（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxabx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200210807574605125.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxabx5/index.html" target="_blank" title="数学5 必修（A版）"><img src="./gzkbsxjc/202002/W020200212065993066502.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxabx5/index.html" target="_blank" title="数学5 必修（A版）">数学5 必修（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxabx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200211704909768719.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx1/index.html" target="_blank" title="数学1 必修（B版）"><img src="./gzkbsxjc/202002/W020200212065763775117.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbbx1/index.html" target="_blank" title="数学1 必修（B版）">数学1 必修（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200211703100800465.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx2/index.html" target="_blank" title="数学2 必修（B版）"><img src="./gzkbsxjc/202002/W020200212023886631971.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbbx2/index.html" target="_blank" title="数学2 必修（B版）">数学2 必修（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200210807567180736.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx3/index.html" target="_blank" title="数学3 必修（B版）"><img src="./gzkbsxjc/202002/W020200212033601835233.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbbx3/index.html" target="_blank" title="数学3 必修（B版）">数学3 必修（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200211627133096308.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx4/index.html" target="_blank" title="数学4 必修（B版）"><img src="./gzkbsxjc/202002/W020200212027925952949.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbbx4/index.html" target="_blank" title="数学4 必修（B版）">数学4 必修（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200211627338704702.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx5/index.html" target="_blank" title="数学5 必修（B版）"><img src="./gzkbsxjc/202002/W020200212029276286605.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbbx5/index.html" target="_blank" title="数学5 必修（B版）">数学5 必修（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbbx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200210807559566977.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx11/index.html" target="_blank" title="数学 选修1-1（A版）"><img src="./gzkbsxjc/202002/W020200212034227493212.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx11/index.html" target="_blank" title="数学 选修1-1（A版）">数学 选修1-1（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx11/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212024009185954.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx12/index.html" target="_blank" title="数学 选修1-2（A版）"><img src="./gzkbsxjc/202002/W020200212034975612256.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx12/index.html" target="_blank" title="数学 选修1-2（A版）">数学 选修1-2（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx12/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212028227280183.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx21/index.html" target="_blank" title="数学 选修2-1（A版）"><img src="./gzkbsxjc/202002/W020200212035322443522.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx21/index.html" target="_blank" title="数学 选修2-1（A版）">数学 选修2-1（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx21/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212341972152899.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx22/index.html" target="_blank" title="数学 选修2-2（A版）"><img src="./gzkbsxjc/202002/W020200212036981143888.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx22/index.html" target="_blank" title="数学 选修2-2（A版）">数学 选修2-2（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx22/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212024952384376.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx23/index.html" target="_blank" title="数学 选修2-3（A版）"><img src="./gzkbsxjc/202002/W020200212037278721615.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx23/index.html" target="_blank" title="数学 选修2-3（A版）">数学 选修2-3（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx23/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212025225773483.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx31/index.html" target="_blank" title="数学 选修3-1 数学史选讲（A版）"><img src="./gzkbsxjc/202002/W020200212037680611875.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx31/index.html" target="_blank" title="数学 选修3-1 数学史选讲（A版）">数学 选修3-1 数学史选讲（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx31/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212029940873791.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx33/index.html" target="_blank" title="数学 选修3-3 球面上的几何(A版)"><img src="./gzkbsxjc/202002/W020200212037832529056.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx33/index.html" target="_blank" title="数学 选修3-3 球面上的几何(A版)">数学 选修3-3 球面上的几何(A版)</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx33/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212030281531538.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx34/index.html" target="_blank" title="数学 选修3-4 对称与群（A版）"><img src="./gzkbsxjc/202002/W020200212040695429331.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx34/index.html" target="_blank" title="数学 选修3-4 对称与群（A版）">数学 选修3-4 对称与群（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx34/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212030574010799.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx41/index.html" target="_blank" title="数学 选修4-1 几何证明选讲（A版）"><img src="./gzkbsxjc/202002/W020200212040823956358.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx41/index.html" target="_blank" title="数学 选修4-1 几何证明选讲（A版）">数学 选修4-1 几何证明选讲（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx41/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212030915126373.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx42/index.html" target="_blank" title="数学 选修4-2 矩阵与变换(A版)"><img src="./gzkbsxjc/202002/W020200212044996886000.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx42/index.html" target="_blank" title="数学 选修4-2 矩阵与变换(A版)">数学 选修4-2 矩阵与变换(A版)</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx42/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212031295309221.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx44/index.html" target="_blank" title="数学 选修4-4 坐标系与参数方程（A版）"><img src="./gzkbsxjc/202002/W020200212045157686515.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx44/index.html" target="_blank" title="数学 选修4-4 坐标系与参数方程（A版）">数学 选修4-4 坐标系与参数方程（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx44/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212031618534105.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx45/index.html" target="_blank" title="数学 选修4-5 不等式选讲（A版）"><img src="./gzkbsxjc/202002/W020200212045284033130.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx45/index.html" target="_blank" title="数学 选修4-5 不等式选讲（A版）">数学 选修4-5 不等式选讲（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx45/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212031938843564.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx46/index.html" target="_blank" title="数学 选修4-6 初等数论初步（A版）"><img src="./gzkbsxjc/202002/W020200212045686953205.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx46/index.html" target="_blank" title="数学 选修4-6 初等数论初步（A版）">数学 选修4-6 初等数论初步（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx46/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212032569559939.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx47/index.html" target="_blank" title="数学 选修4-7 优选法与试验设计初步（A版）"><img src="./gzkbsxjc/202002/W020200212046996367746.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx47/index.html" target="_blank" title="数学 选修4-7 优选法与试验设计初步（A版）">数学 选修4-7 优选法与试验设计初步（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx47/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212032267589461.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx49/index.html" target="_blank" title="数学 选修4-9 风险与决策（A版）"><img src="./gzkbsxjc/202002/W020200212047595274187.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxaxx49/index.html" target="_blank" title="数学 选修4-9 风险与决策（A版）">数学 选修4-9 风险与决策（A版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxaxx49/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212032886834153.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx11/index.html" target="_blank" title="数学 选修1-1（B版）"><img src="./gzkbsxjc/202002/W020200212034398045582.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbxx11/index.html" target="_blank" title="数学 选修1-1（B版）">数学 选修1-1（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx11/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212024525354866.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx12/index.html" target="_blank" title="数学 选修1-2（B版）"><img src="./gzkbsxjc/202002/W020200212035148820981.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbxx12/index.html" target="_blank" title="数学 选修1-2（B版）">数学 选修1-2（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx12/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212028798331183.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx21/index.html" target="_blank" title="数学 选修2-1（B版）"><img src="./gzkbsxjc/202002/W020200212035766899283.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbxx21/index.html" target="_blank" title="数学 选修2-1（B版）">数学 选修2-1（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx21/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212024725367486.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx22/index.html" target="_blank" title="数学 选修2-2（B版）"><img src="./gzkbsxjc/202002/W020200212037135775136.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbxx22/index.html" target="_blank" title="数学 选修2-2（B版）">数学 选修2-2（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx22/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212029153325182.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx23/index.html" target="_blank" title="数学 选修2-3（B版）"><img src="./gzkbsxjc/202002/W020200212037420391758.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbsxbxx23/index.html" target="_blank" title="数学 选修2-3（B版）">数学 选修2-3（B版）</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbsxbxx23/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjc/202002/P020200212029513379580.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>数学教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx1/index.html" target="_blank" title="数学1 必修（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212022460027944.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx1/index.html" target="_blank" title="数学1 必修（A版） 教师用书">数学1 必修（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200210111049816946.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx2/index.html" target="_blank" title="数学2 必修（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212029705260159.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx2/index.html" target="_blank" title="数学2 必修（A版） 教师用书">数学2 必修（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200210111191230728.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx3/index.html" target="_blank" title="数学3 必修（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212032061279588.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx3/index.html" target="_blank" title="数学3 必修（A版） 教师用书">数学3 必修（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200210111451885151.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx4/index.html" target="_blank" title="数学4 必修（A版）教师用书"><img src="./gzkbsxjsys/202002/W020200212032608004900.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx4/index.html" target="_blank" title="数学4 必修（A版）教师用书">数学4 必修（A版）教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212108949819665.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx5/index.html" target="_blank" title="数学5 必修（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212034050303464.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx5/index.html" target="_blank" title="数学5 必修（A版） 教师用书">数学5 必修（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxabx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200211716837527705.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx1/index.html" target="_blank" title="数学1 必修（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212022924728714.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx1/index.html" target="_blank" title="数学1 必修（B版） 教师用书">数学1 必修（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200211716492130078.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx2/index.html" target="_blank" title="数学2 必修（B版）  教师用书"><img src="./gzkbsxjsys/202002/W020200212031915208291.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx2/index.html" target="_blank" title="数学2 必修（B版）  教师用书">数学2 必修（B版）  教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200210111589326031.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx3/index.html" target="_blank" title="数学3 必修（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212032484814089.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx3/index.html" target="_blank" title="数学3 必修（B版） 教师用书">数学3 必修（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200210601348216888.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx4/index.html" target="_blank" title="数学4 必修（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212032741239789.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx4/index.html" target="_blank" title="数学4 必修（B版） 教师用书">数学4 必修（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212396362146130.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx5/index.html" target="_blank" title="数学5 必修（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212033058480207.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx5/index.html" target="_blank" title="数学5 必修（B版） 教师用书">数学5 必修（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbbx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212039164221358.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx11/index.html" target="_blank" title="数学 选修1-1（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212038153187596.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx11/index.html" target="_blank" title="数学 选修1-1（A版） 教师用书">数学 选修1-1（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx11/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212091345946421.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx12/index.html" target="_blank" title="数学 选修1-2（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212038293632567.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx12/index.html" target="_blank" title="数学 选修1-2（A版） 教师用书">数学 选修1-2（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx12/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212109160570173.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx21/index.html" target="_blank" title="数学 选修2-1（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212038454454009.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx21/index.html" target="_blank" title="数学 选修2-1（A版） 教师用书">数学 选修2-1（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx21/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212130346360403.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx22/index.html" target="_blank" title="数学 选修2-2（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212039292562416.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx22/index.html" target="_blank" title="数学 选修2-2（A版） 教师用书">数学 选修2-2（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx22/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212124324721321.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx23/index.html" target="_blank" title="数学 选修2-3（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212039412718070.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx23/index.html" target="_blank" title="数学 选修2-3（A版） 教师用书">数学 选修2-3（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx23/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212124496492314.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx41/index.html" target="_blank" title="数学 选修4-1 几何证明选讲（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212041278492986.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx41/index.html" target="_blank" title="数学 选修4-1 几何证明选讲（A版） 教师用书">数学 选修4-1 几何证明选讲（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx41/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212125369900521.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx42/index.html" target="_blank" title="数学 选修4-2 矩阵与变换(A版) 教师用书"><img src="./gzkbsxjsys/202002/W020200212047849222698.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx42/index.html" target="_blank" title="数学 选修4-2 矩阵与变换(A版) 教师用书">数学 选修4-2 矩阵与变换(A版) 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx42/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212125558607743.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx44/index.html" target="_blank" title="数学 选修4-4 坐标系与参数方程（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212048335558224.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx44/index.html" target="_blank" title="数学 选修4-4 坐标系与参数方程（A版） 教师用书">数学 选修4-4 坐标系与参数方程（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx44/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212040586191470.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx45/index.html" target="_blank" title="数学 选修4-5 不等式选讲（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212048505001222.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx45/index.html" target="_blank" title="数学 选修4-5 不等式选讲（A版） 教师用书">数学 选修4-5 不等式选讲（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx45/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212040780469548.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx46/index.html" target="_blank" title="数学 选修4-6 初等数论初步（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212048916928622.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx46/index.html" target="_blank" title="数学 选修4-6 初等数论初步（A版） 教师用书">数学 选修4-6 初等数论初步（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx46/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212041012668904.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx47/index.html" target="_blank" title="数学 选修4-7 优选法与试验设计初步（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212049884462034.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx47/index.html" target="_blank" title="数学 选修4-7 优选法与试验设计初步（A版） 教师用书">数学 选修4-7 优选法与试验设计初步（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx47/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200211633894791913.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx49/index.html" target="_blank" title="数学 选修4-9 风险与决策（A版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212050037208869.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx49/index.html" target="_blank" title="数学 选修4-9 风险与决策（A版） 教师用书">数学 选修4-9 风险与决策（A版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxaxx49/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212041255558680.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx11/index.html" target="_blank" title="数学 选修1-1（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212038608395998.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx11/index.html" target="_blank" title="数学 选修1-1（B版） 教师用书">数学 选修1-1（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx11/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212039425113269.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx12/index.html" target="_blank" title="数学 选修1-2（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212038754388971.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx12/index.html" target="_blank" title="数学 选修1-2（B版） 教师用书">数学 选修1-2（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx12/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212039643382954.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx21/index.html" target="_blank" title="数学 选修2-1（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212038885475293.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx21/index.html" target="_blank" title="数学 选修2-1（B版） 教师用书">数学 选修2-1（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx21/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212039881815688.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx22/index.html" target="_blank" title="数学 选修2-2（B版） 教师用书"><img src="./gzkbsxjsys/202002/W020200212039024660507.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx22/index.html" target="_blank" title="数学 选修2-2（B版） 教师用书">数学 选修2-2（B版） 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx22/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212040098314144.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx23/index.html" target="_blank" title="数学 选修2-3（B版）教师用书"><img src="./gzkbsxjsys/202002/W020200212040262163088.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx23/index.html" target="_blank" title="数学 选修2-3（B版）教师用书">数学 选修2-3（B版）教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbsxbxx23/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbsxjsys/202002/P020200212126112288234.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>物理教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwlbx2/index.html" target="_blank" title="物理 必修2"><img src="./gzkbwljc/202002/W020200212050205231726.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwlbx2/index.html" target="_blank" title="物理 必修2">物理 必修2</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwlbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljc/202002/P020200212033353922885.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwlxx31/index.html" target="_blank" title="物理 选修3-1"><img src="./gzkbwljc/202002/W020200212050755699630.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwlxx31/index.html" target="_blank" title="物理 选修3-1">物理 选修3-1</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwlxx31/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljc/202002/P020200212025614185788.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwlxx32/index.html" target="_blank" title="物理 选修3-2"><img src="./gzkbwljc/202002/W020200212050942278365.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwlxx32/index.html" target="_blank" title="物理 选修3-2">物理 选修3-2</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwlxx32/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljc/202002/P020200212033722506534.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwlxx33/index.html" target="_blank" title="物理 选修3-3"><img src="./gzkbwljc/202002/W020200212052134222974.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwlxx33/index.html" target="_blank" title="物理 选修3-3">物理 选修3-3</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwlxx33/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljc/202002/P020200212034059898448.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwlxx34/index.html" target="_blank" title="物理 选修3-4"><img src="./gzkbwljc/202002/W020200212054048298174.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwlxx34/index.html" target="_blank" title="物理 选修3-4">物理 选修3-4</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwlxx34/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljc/202002/P020200211634526727750.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbwlxx35/index.html" target="_blank" title="物理 选修3-5"><img src="./gzkbwljc/202002/W020200212062041226468.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbwlxx35/index.html" target="_blank" title="物理 选修3-5">物理 选修3-5</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbwlxx35/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljc/202002/P020200212025795253750.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>物理教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwlbx2/index.html" target="_blank" title="物理2 必修 教师用书"><img src="./gzkbwljsys/202002/W020200212061145861557.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwlbx2/index.html" target="_blank" title="物理2 必修 教师用书">物理2 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwlbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljsys/202002/P020200211717139321973.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx31/index.html" target="_blank" title="物理 选修3-1 教师用书"><img src="./gzkbwljsys/202002/W020200212061284260589.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx31/index.html" target="_blank" title="物理 选修3-1 教师用书">物理 选修3-1 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx31/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljsys/202002/P020200212041493249684.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx32/index.html" target="_blank" title="物理 选修3-2 教师用书"><img src="./gzkbwljsys/202002/W020200212061395210438.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx32/index.html" target="_blank" title="物理 选修3-2 教师用书">物理 选修3-2 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx32/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljsys/202002/P020200212041696991858.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx33/index.html" target="_blank" title="物理 选修3-3 教师用书"><img src="./gzkbwljsys/202002/W020200212061553323105.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx33/index.html" target="_blank" title="物理 选修3-3 教师用书">物理 选修3-3 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx33/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljsys/202002/P020200212041847672233.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx34/index.html" target="_blank" title="物理 选修3-4 教师用书"><img src="./gzkbwljsys/202002/W020200212061659303919.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx34/index.html" target="_blank" title="物理 选修3-4 教师用书">物理 选修3-4 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx34/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljsys/202002/P020200211717412187962.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx35/index.html" target="_blank" title="物理 选修3-5 教师用书"><img src="./gzkbwljsys/202002/W020200212062173970906.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx35/index.html" target="_blank" title="物理 选修3-5 教师用书">物理 选修3-5 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbwlxx35/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbwljsys/202002/P020200212042030764631.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>化学教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxbx2/index.html" target="_blank" title="化学2 必修"><img src="./gzkbhxjc/202002/W020200212010261115063.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxbx2/index.html" target="_blank" title="化学2 必修">化学2 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210049857496676.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxxx1/index.html" target="_blank" title="化学 选修1 化学与生活"><img src="./gzkbhxjc/202002/W020200212010675167783.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxxx1/index.html" target="_blank" title="化学 选修1 化学与生活">化学 选修1 化学与生活</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210050025579739.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxxx2/index.html" target="_blank" title="化学 选修2 化学与技术"><img src="./gzkbhxjc/202002/W020200212010998724776.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxxx2/index.html" target="_blank" title="化学 选修2 化学与技术">化学 选修2 化学与技术</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxxx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210050241978098.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxxx3/index.html" target="_blank" title="化学 选修3 物质结构与性质"><img src="./gzkbhxjc/202002/W020200220623659636420.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxxx3/index.html" target="_blank" title="化学 选修3 物质结构与性质">化学 选修3 物质结构与性质</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210050491618391.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxxx4/index.html" target="_blank" title="化学 选修4 化学反应原理"><img src="./gzkbhxjc/202002/W020200212011545809214.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxxx4/index.html" target="_blank" title="化学 选修4 化学反应原理">化学 选修4 化学反应原理</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxxx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210050668648961.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxxx5/index.html" target="_blank" title="化学 选修5 有机化学基础"><img src="./gzkbhxjc/202002/W020200212011950892569.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxxx5/index.html" target="_blank" title="化学 选修5 有机化学基础">化学 选修5 有机化学基础</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxxx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210050806123407.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbhxxx6/index.html" target="_blank" title="化学 选修6 实验化学"><img src="./gzkbhxjc/202002/W020200212012065759151.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbhxxx6/index.html" target="_blank" title="化学 选修6 实验化学">化学 选修6 实验化学</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbhxxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjc/202002/P020200210050970597437.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>化学教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxbx2/index.html" target="_blank" title="化学2 必修 教师用书"><img src="./gzkbhxjsys/202002/W020200212010460790973.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxbx2/index.html" target="_blank" title="化学2 必修 教师用书">化学2 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210058953998658.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx1/index.html" target="_blank" title="化学 选修1 化学与生活 教师用书"><img src="./gzkbhxjsys/202002/W020200212010827176349.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx1/index.html" target="_blank" title="化学 选修1 化学与生活 教师用书">化学 选修1 化学与生活 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210059161071737.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx2/index.html" target="_blank" title="化学 选修2 化学与技术 教师用书"><img src="./gzkbhxjsys/202002/W020200212011145226468.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx2/index.html" target="_blank" title="化学 选修2 化学与技术 教师用书">化学 选修2 化学与技术 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210059498854432.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx3/index.html" target="_blank" title="化学 选修3 物质结构与性质 教师用书"><img src="./gzkbhxjsys/202002/W020200212011357867612.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx3/index.html" target="_blank" title="化学 选修3 物质结构与性质 教师用书">化学 选修3 物质结构与性质 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210059720718580.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx4/index.html" target="_blank" title="化学 选修4 化学反应原理 教师用书"><img src="./gzkbhxjsys/202002/W020200212011701871485.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx4/index.html" target="_blank" title="化学 选修4 化学反应原理 教师用书">化学 选修4 化学反应原理 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210059988863822.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx5/index.html" target="_blank" title="化学 选修5 有机化学基础 教师用书"><img src="./gzkbhxjsys/202002/W020200212012233113900.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx5/index.html" target="_blank" title="化学 选修5 有机化学基础 教师用书">化学 选修5 有机化学基础 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx5/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210060251707006.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx6/index.html" target="_blank" title="化学 选修6 实验化学 教师用书"><img src="./gzkbhxjsys/202002/W020200212012330384337.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx6/index.html" target="_blank" title="化学 选修6 实验化学 教师用书">化学 选修6 实验化学 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbhxxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbhxjsys/202002/P020200210060573652560.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>生物教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbswbx2/index.html" target="_blank" title="生物2 必修 遗传与进化"><img src="./gzkbswjc/202002/W020200212019877726462.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbswbx2/index.html" target="_blank" title="生物2 必修 遗传与进化">生物2 必修 遗传与进化</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbswbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjc/202002/P020200210052474822768.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbswbx3/index.html" target="_blank" title="生物3 必修 稳态与环境"><img src="./gzkbswjc/202002/W020200212020428290764.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbswbx3/index.html" target="_blank" title="生物3 必修 稳态与环境">生物3 必修 稳态与环境</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbswbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjc/202002/P020200210052849950146.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbswxx1/index.html" target="_blank" title="生物 选修1 生物技术实践"><img src="./gzkbswjc/202002/W020200212020608431814.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbswxx1/index.html" target="_blank" title="生物 选修1 生物技术实践">生物 选修1 生物技术实践</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbswxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjc/202002/P020200210053393169721.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbswxx3/index.html" target="_blank" title="生物 选修3 现代生物科技专题"><img src="./gzkbswjc/202002/W020200213810488141545.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbswxx3/index.html" target="_blank" title="生物 选修3 现代生物科技专题">生物 选修3 现代生物科技专题</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbswxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjc/202002/P020200213613604748362.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>生物教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbswbx2/index.html" target="_blank" title="生物2 必修 遗传与进化 教师用书"><img src="./gzkbswjsys/202002/W020200212020061172749.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbswbx2/index.html" target="_blank" title="生物2 必修 遗传与进化 教师用书">生物2 必修 遗传与进化 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbswbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjsys/202002/P020200210062219750802.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbswbx3/index.html" target="_blank" title="生物3 必修 稳态与环境 教师用书"><img src="./gzkbswjsys/202002/W020200212020249638470.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbswbx3/index.html" target="_blank" title="生物3 必修 稳态与环境 教师用书">生物3 必修 稳态与环境 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbswbx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjsys/202002/P020200210062465793108.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbswxx1/index.html" target="_blank" title="生物 选修1 生物技术实践 教师用书"><img src="./gzkbswjsys/202002/W020200212020930629724.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbswxx1/index.html" target="_blank" title="生物 选修1 生物技术实践 教师用书">生物 选修1 生物技术实践 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbswxx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjsys/202002/P020200210062726880675.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbswxx3/index.html" target="_blank" title="生物 选修3 现代生物科技专题 教师用书"><img src="./gzkbswjsys/202002/W020200213810634879467.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbswxx3/index.html" target="_blank" title="生物 选修3 现代生物科技专题 教师用书">生物 选修3 现代生物科技专题 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbswxx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbswjsys/202002/P020200213610672909342.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>地理教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbdlbx2/index.html" target="_blank" title="地理2 必修"><img src="./gzkbdljc/202002/W020200212009556333663.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbdlbx2/index.html" target="_blank" title="地理2 必修">地理2 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbdlbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbdljc/202002/P020200219823299730784.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>地理教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbdlbx2/index.html" target="_blank" title="地理2 必修 教师用书"><img src="./gzkbdijsys/202002/W020200212009727273009.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbdlbx2/index.html" target="_blank" title="地理2 必修 教师用书">地理2 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbdlbx2/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbdijsys/202002/P020200210058080214464.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>英语教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyybx3/index.html" target="_blank" title="英语3 必修"><img src="./gzkbyyjc/202002/W020200212067609710332.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyybx3/index.html" target="_blank" title="英语3 必修">英语3 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyybx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjc/202002/P020200210771116953588.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyybx4/index.html" target="_blank" title="英语4 必修"><img src="./gzkbyyjc/202002/W020200212067794300479.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyybx4/index.html" target="_blank" title="英语4 必修">英语4 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyybx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjc/202002/P020200210770929301529.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyyxx6/index.html" target="_blank" title="英语6 选修"><img src="./gzkbyyjc/202002/W020200226475173862522.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyyxx6/index.html" target="_blank" title="英语6 选修">英语6 选修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyyxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjc/202002/P020200226475171621450.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyybx7/index.html" target="_blank" title="英语7 选修"><img src="./gzkbyyjc/202002/W020200212067942282506.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyybx7/index.html" target="_blank" title="英语7 选修">英语7 选修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyybx7/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjc/202002/P020200210771435092806.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbyybx8/index.html" target="_blank" title="英语8 选修"><img src="./gzkbyyjc/202002/W020200212068077969470.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbyybx8/index.html" target="_blank" title="英语8 选修">英语8 选修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbyybx8/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjc/202002/P020200210770612636797.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>英语教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx3/index.html" target="_blank" title="英语 3必修 教师用书"><img src="./gzkbyyjsys/202002/W020200212068364485525.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyybx3/index.html" target="_blank" title="英语 3必修 教师用书">英语 3必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx3/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjsys/202002/P020200210757354804444.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx4/index.html" target="_blank" title="英语 4必修 教师用书"><img src="./gzkbyyjsys/202002/W020200212068519734490.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyybx4/index.html" target="_blank" title="英语 4必修 教师用书">英语 4必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx4/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjsys/202002/P020200210756164720894.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyyxx6/index.html" target="_blank" title="英语 6选修 教师用书"><img src="./gzkbyyjsys/202002/W020200226476207599530.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyyxx6/index.html" target="_blank" title="英语 6选修 教师用书">英语 6选修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyyxx6/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjsys/202002/P020200226476204541105.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx7/index.html" target="_blank" title="英语 7选修 教师用书"><img src="./gzkbyyjsys/202002/W020200220624447418947.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyybx7/index.html" target="_blank" title="英语 7选修 教师用书">英语 7选修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx7/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjsys/202002/P020200210757696405000.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx8/index.html" target="_blank" title="英语 8选修 教师用书"><img src="./gzkbyyjsys/202002/W020200212068795096339.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbyybx8/index.html" target="_blank" title="英语 8选修 教师用书">英语 8选修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbyybx8/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./gzkbyyjsys/202002/P020200210758133538975.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>俄语教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbeybx1/index.html" target="_blank" title="俄语1 必修"><img src="./kbeyjc/202002/W020200212009921257765.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbeybx1/index.html" target="_blank" title="俄语1 必修">俄语1 必修</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbeybx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbeyjc/202002/P020200211701256126298.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>俄语教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbeybx1/index.html" target="_blank" title="俄语1 必修 教师用书"><img src="./kbeyjsys/202002/W020200212010042648416.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbeybx1/index.html" target="_blank" title="俄语1 必修 教师用书">俄语1 必修 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbeybx1/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbeyjsys/202002/P020200211714167588377.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>美术教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsxxmsjs/index.html" target="_blank" title="美术 选修 美术鉴赏"><img src="./kbgzmsjc/202002/W020200213808374065315.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsxxmsjs/index.html" target="_blank" title="美术 选修 美术鉴赏">美术 选修 美术鉴赏</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsxxmsjs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213606820672843.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsxx/index.html" target="_blank" title="美术 选修 摄影摄像"><img src="./kbgzmsjc/202002/W020200213809245509845.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsxx/index.html" target="_blank" title="美术 选修 摄影摄像">美术 选修 摄影摄像</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsxx/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213609662507298.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsdnhh/index.html" target="_blank" title="美术 选修 电脑绘画电脑设计"><img src="./kbgzmsjc/202002/W020200213806874013250.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsdnhh/index.html" target="_blank" title="美术 选修 电脑绘画电脑设计">美术 选修 电脑绘画电脑设计</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsdnhh/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213603934401026.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsxxds/index.html" target="_blank" title="美术 选修 雕塑"><img src="./kbgzmsjc/202002/W020200213807310823541.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsxxds/index.html" target="_blank" title="美术 选修 雕塑">美术 选修 雕塑</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsxxds/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213604758044962.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsxxhh/index.html" target="_blank" title="美术 选修 绘画"><img src="./kbgzmsjc/202002/W020200213808040723211.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsxxhh/index.html" target="_blank" title="美术 选修 绘画">美术 选修 绘画</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsxxhh/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213605880925148.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsxxzk/index.html" target="_blank" title="美术 选修 篆刻"><img src="./kbgzmsjc/202002/W020200213809600667694.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsxxzk/index.html" target="_blank" title="美术 选修 篆刻">美术 选修 篆刻</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsxxzk/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213609944723917.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbmsxxsj/index.html" target="_blank" title="美术 选修 设计"><img src="./kbgzmsjc/202002/W020200213808839523916.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbmsxxsj/index.html" target="_blank" title="美术 选修 设计">美术 选修 设计</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbmsxxsj/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjc/202002/P020200213608712151072.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>美术教师用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxmsjs/index.html" target="_blank" title="美术 选修 美术鉴赏 教师用书"><img src="./kbgzmsjsys/202002/W020200213808613582019.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxmsjs/index.html" target="_blank" title="美术 选修 美术鉴赏 教师用书">美术 选修 美术鉴赏 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxmsjs/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200213607159483652.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxx/index.html" target="_blank" title="美术 选修 摄影摄像 教师用书"><img src="./kbgzmsjsys/202002/W020200213809423475284.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsxx/index.html" target="_blank" title="美术 选修 摄影摄像 教师用书">美术 选修 摄影摄像 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxx/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200212776231630728.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsdnhh/index.html" target="_blank" title="美术 选修 电脑绘画电脑设计 教师用书"><img src="./kbgzmsjsys/202002/W020200213807129062457.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsdnhh/index.html" target="_blank" title="美术 选修 电脑绘画电脑设计 教师用书">美术 选修 电脑绘画电脑设计 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsdnhh/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200228664451948207.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxds/index.html" target="_blank" title="美术 选修 雕塑 教师用书"><img src="./kbgzmsjsys/202002/W020200213807477100066.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxds/index.html" target="_blank" title="美术 选修 雕塑 教师用书">美术 选修 雕塑 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxds/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200213605241004146.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxhh/index.html" target="_blank" title="美术 选修 绘画 教师用书"><img src="./kbgzmsjsys/202002/W020200213807895516593.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxhh/index.html" target="_blank" title="美术 选修 绘画 教师用书">美术 选修 绘画 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxhh/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200213606245492960.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxzk/index.html" target="_blank" title="美术 选修 篆刻 教师用书"><img src="./kbgzmsjsys/202002/W020200213809738053314.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxzk/index.html" target="_blank" title="美术 选修 篆刻 教师用书">美术 选修 篆刻 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxzk/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200213610236420871.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxsj/index.html" target="_blank" title="美术 选修 设计 教师用书"><img src="./kbgzmsjsys/202002/W020200213808974612967.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxsj/index.html" target="_blank" title="美术 选修 设计 教师用书">美术 选修 设计 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbmsxxsj/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgzmsjsys/202002/P020200213609053026695.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>体育与健康教科书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/gzkbtyyjkbx/index.html" target="_blank" title="体育与健康 （必修）全一册"><img src="./kbgztyjc/202002/W020200213814524555356.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/gzkbtyyjkbx/index.html" target="_blank" title="体育与健康 （必修）全一册">体育与健康 （必修）全一册</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/gzkbtyyjkbx/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgztyjc/202002/P020200212781966763114.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+  <div class="con_list_jcdzs2020">
+    	<div class="con_title_jcdzs2020">
+       	  <h4>体育与健康教师教学用书</h4>
+    	</div>
+
+    	<ul class="clearfix">
+
+            <li class="fl js_cp">
+            	<a href="http://bp.pep.com.cn/ebook/jcgzkbtyyjkbx/index.html" target="_blank" title="体育与健康 必修全一册 教师用书"><img src="./kbgztyjsys/202002/W020200213810865558764.jpg" width="158" height="220" alt="" /></a>
+                <h6><a href="http://bp.pep.com.cn/ebook/jcgzkbtyyjkbx/index.html" target="_blank" title="体育与健康 必修全一册 教师用书">体育与健康 必修全一册 教师用书</a></h6>
+				<div class="con_type_link_jcdzs2020">
+					<a href="http://bp.pep.com.cn/ebook/jcgzkbtyyjkbx/" target="_blank" title="阅读" class="btn_type_dy">阅读</a>
+					<a href="./kbgztyjsys/202002/P020200213614724911344.pdf" target="_blank" title="下载" class="btn_type_dl">下载</a>
+				</div>
+
+
+        </ul>
+
+  </div>
+
+</div>
+
+<div class="footer hide_cp">
+	<p>&copy;版权所有 人民教育出版社<br/><a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action " target="_blank">京ICP备05019902号</a><span>|</span><a href="http://www.pep.com.cn/rjgl/rjdt/201011/t20101103_944967.shtml" target="_blank">新出网证(京)字016</a><span>|</span>京公网安备1104024400009号</p>
+</div>
+<div class="footer m_pxap">
+    <a href="http://www.pep.com.cn" target="_blank">&copy;版权所有 人民教育出版社</a>
+    <a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action " target="_blank">京ICP备05019902号</a><br>
+    <a href="http://www.pep.com.cn/rjgl/rjdt/201011/t20101103_944967.shtml" target="_blank">新出网证(京)字016</a>
+    <span>京公网安备110402440009号</span>
+</div>
+
+<script type="text/javascript" src="../../images/jquery_5_1.min.js"></script>
+
+<script>
+$(function(){
+	
+	if($(window).width()>1000){
+		$(".con_title_jcdzs2020 h4").each(function(index, element) {
+			$(this).css("marginLeft",-$(this).innerWidth()/2)
+		});
+	}
+
+
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|yangshipin|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+	if(window.location.href.indexOf("?mobile")<0){
+		try{
+		    $(".con_type_link_jcdzs2020").hide();
+$(".js_cp a").removeAttr("target")
+		}catch(e){}
+	}
+}
+
+
+})
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?505934b537b966bd0bc99ecac4714092";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script src="https://bd-st.mypep.cn/js/points.js"></script>
+    <script>
+        window.onload = function(){
+            pepPoints.loader.dataReport({
+                product_id: '300',    // 人教网product_id
+                company: '110000008'  // company
+            });
+        }
+</script> 
+</body>
+</html>
